@@ -10,6 +10,8 @@ can be used to give you ideas on what to automate at home.
 
 You can always find the current version of HA Ideas by visiting [haideas.com](https://haideas.com).
 
+I realize there's probably a better structure long-term, so this list will evolve as time goes on.
+
 - [General](#general)
 - [Aquariums](#aquariums)
 - [Lighting](#lighting)
