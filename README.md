@@ -1,194 +1,12 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
--->
-
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h3 align="center">HA Ideas</h3>
-
-  <p align="center">
-    Ideas For Your Home Automation Journey
-  </p>
-</p>
-
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About HA Ideas</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About HA Ideas
-
-HA Ideas is nothing more than a list of HA Ideas. As a big fan of home automation, I'm always looking for new automations I can create
-
-
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Create a pull request
-yada yada yada
-
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/chetcuti/haideas](https://github.com/chetcuti/haideas)
-
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/chetcuti/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/chetcuti/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/chetcuti/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/chetcuti/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/chetcuti/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/chetcuti/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/chetcuti/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/chetcuti/repo/issues
-[license-shield]: https://img.shields.io/github/license/chetcuti/repo.svg?style=for-the-badge
-[license-url]: https://github.com/chetcuti/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/chetcuti
-
-<hr>
-<BR><BR><BR>
-
 # Home Automation Ideas
+I *love* Home Automation, but it's not always easy to come up with automation ideas that you can implement. You can do some searches and dig through posts to find what other people have implemented, and that works great, but I wanted to see if it would be worth getting a central idea r
+
+
+This repository is nothing more than a list of Home Automation ideas, in order to spark ideas
 
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About HA Ideas</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-
-## By Product
-
-### Air Conditioners
-- Turn on smart plug w/air conditioner when the temperature rises
-
-### Batteries
-- Turn off smart plug w/charger when battery reaches a certain % to maintain battery health
-
-### Fans
-- Turn on smart plug w/fan when the temperature rises
-
-### Garage Doors
-- Open garage door when you get home
-- OPen "" NFT tag tap
-
-### Lighting
-- Turn off lights when you leave the house
-- Turn on lights when you get home
-
-### Televisions
-- Turn on TV when you get home and switch it to your favourite smart app
-
-
-
-
-## By Sensor Type
-
-### NFT Tags
-
-### Presence Detection
-
-### Smart Bulbs
-
-### Smart Plugs
-
-### Temperature Sensors
-
-
-
-
-
-# Home Automation Ideas
-This repository can be used to give you ideas on what to automate at home.
+can be used to give you ideas on what to automate at home.
 
 You can always find the current version of HA Ideas by visiting [haideas.com](https://haideas.com).
 
@@ -197,7 +15,7 @@ You can always find the current version of HA Ideas by visiting [haideas.com](ht
 # General
 - Setup a bedtime switch that will turn off the living room television and lights, and turn on the bedroom TV and lamp
 - Turn on/turn off any device at a specified time
-- NFT TAGS
+- Post NFC tags in various locations and tap your phone on them to trigger automations
 
 # Aquariums
 - Automate your feeding schedule
@@ -224,6 +42,7 @@ You can always find the current version of HA Ideas by visiting [haideas.com](ht
 - Setup a motion sensor just inside your front door, so when you get home and open your door, the sensor triggers an automation
 - Run automations when you get into or out of bed
 - Turn on the bathroom light when you walk past a hallway sensor between midnight and 5am
+- Open your garage door when you get home
 
 # Robot Vacuum
 - Set your vacuum up on a daily schedule for general cleaning
@@ -237,4 +56,3 @@ You can always find the current version of HA Ideas by visiting [haideas.com](ht
 
 # Windows
 - Close windows if the outside air quality drops below a certain level
-
