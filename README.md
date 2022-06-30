@@ -10,7 +10,17 @@ can be used to give you ideas on what to automate at home.
 
 You can always find the current version of HA Ideas by visiting [haideas.com](https://haideas.com).
 
-[TOC]
+- [General](#general)
+- [Aquariums](#aquariums)
+- [Lighting](#lighting)
+- [Heating & Cooling](#heating--cooling)
+- [Phone](#phone)
+- [Plants](#plants)
+- [Presence Detection](#presence-detection)
+- [Robot Vacuum](#robot-vacuum)
+- [Television](#television)
+- [Weather](#weather)
+- [Windows](#windows)
 
 # General
 - Setup a bedtime switch that will turn off the living room television and lights, and turn on the bedroom TV and lamp
