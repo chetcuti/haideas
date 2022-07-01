@@ -14,8 +14,8 @@ I realize there's probably a better structure long-term, so this list will evolv
 
 - [General](#general)
 - [Aquariums](#aquariums)
-- [Lighting](#lighting)
 - [Heating & Cooling](#heating--cooling)
+- [Lighting](#lighting)
 - [Phone](#phone)
 - [Plants](#plants)
 - [Presence Detection](#presence-detection)
@@ -34,13 +34,13 @@ I realize there's probably a better structure long-term, so this list will evolv
 - Automate your lighting schedule
 - Check your important smart plugs (filters, heaters) to make sure they're on, and if not, send yourself a notification. You could then keep checking every 30 minutes, and keep notifying you, until you turn the important smart plugs back on.
 
-# Lighting
-- Slowly dim the lights as it gets closer to bedtime
-- Create a migraine kill switch that turns off all lights
-
 # Heating & Cooling
 - Add a temperature sensor and turn your heaters, air conditioners, etc., off and on as the temperature changes
 - Add a humidity sensor and turn your dehumidifier off and on as the humidity changes
+
+# Lighting
+- Slowly dim the lights as it gets closer to bedtime
+- Create a migraine kill switch that turns off all lights
 
 # Phone
 - Keeping your battery between 40% and 80% improves its long-term health. At 40% turn your phone charger's smart plug on and send yourself a notification to plug your phone in, at 80% turn your phone charger's smart plug off.
